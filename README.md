@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Hanzla Shahzad  
 
-<!--
-**hanzlashahzad01/hanzlashahzad01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack Developer | MERN | Flutter | PHP | AI Apps
 
-Here are some ideas to get you started:
+I build real-world web & mobile applications using modern technologies.  
+Currently focused on **SaaS platforms, AI tools, and scalable full-stack systems.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Tech Stack
+- 💻 Frontend: React, HTML, CSS, JavaScript
+- ⚙ Backend: Node.js, Express.js, PHP
+- 🗄 Databases: MongoDB, MySQL
+- 📱 Mobile: Flutter
+- 🤖 Interests: AI Integration, SaaS Systems
+
+---
+
+## 🔥 Featured Work
+- 🛠 SmartFix – MERN Service Platform  
+- 🤖 AI Customer Support SaaS  
+- 📄 AI Resume Builder  
+- 📊 Real-Time Project Management Tool  
+- 🛍 QuickShop E-commerce (PHP)  
+- 📱 Flutter Mobile Apps
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=hanzlashahzad01&show_icons=true&theme=radical)
+
+---
+
+⭐ Always building. Always learning.
+
