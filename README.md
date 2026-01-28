@@ -28,6 +28,10 @@ Currently focused on **SaaS platforms, AI tools, and scalable full-stack systems
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=hanzlashahzad01&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanzlashahzad01&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=hanzlashahzad01&theme=radical)
+![Visitors](https://komarev.com/ghpvc/?username=hanzlashahzad01&color=brightgreen)
+
 
 ---
 
